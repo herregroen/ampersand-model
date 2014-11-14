@@ -8,9 +8,9 @@
   },
   "dependencies": {
     "ampersand-state": "^4.3.2",
-    "ampersand-sync": "^2.0.0",
-    "underscore": "^1.6.0",
-    "ampersand-version": "^1.0.0"
+    "ampersand-sync": "^3.0.2",
+    "ampersand-version": "^1.0.0",
+    "underscore": "^1.6.0"
   },
   "devDependencies": {
     "ampersand-registry": "0.x.x",
